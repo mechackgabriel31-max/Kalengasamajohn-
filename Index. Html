@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Biographie de l'étudiant</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Ma biographie</h1>
+    <p>Je m'appelle Kalenga, étudiant passionné par la technologie et l'innovation.</p>
+  </header>
+
+  <section>
+    <h2>Mes photos</h2>
+    <figure><img src="3ans.jpg" alt="Moi à 3 ans"><figcaption>Moi à 3 ans</figcaption></figure>
+    <figure><img src="13ans_1.jpg" alt="Moi à 13 ans"><figcaption>Moi à 13 ans (1)</figcaption></figure>
+    <figure><img src="13ans_2.jpg" alt="Moi à 13 ans"><figcaption>Moi à 13 ans (2)</figcaption></figure>
+    <figure><img src="actuel_1.jpg" alt="Moi aujourd’hui"><figcaption>Moi aujourd’hui (1)</figcaption></figure>
+    <figure><img src="actuel_2.jpg" alt="Moi aujourd’hui"><figcaption>Moi aujourd’hui (2)</figcaption></figure>
+  </section>
+
+  <section>
+    <h2>Mon tableau</h2>
+    <table>
+      <thead>
+        <tr><th>Année</th><th>Événement</th><th>Lieu</th><th>Commentaire</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>200X</td><td>Naissance</td><td>Lubumbashi</td><td>—</td></tr>
+        <tr><td>200X</td><td>École maternelle</td><td>Lubumbashi</td><td>Découverte du monde</td></tr>
+        <tr><td>200X</td><td>École primaire</td><td>Lubumbashi</td><td>Premiers apprentissages</td></tr>
+        <tr><td>200X</td><td>Passage en 6e</td><td>Lubumbashi</td><td>Changement d’école</td></tr>
+        <tr><td>200X</td><td>Début du secondaire</td><td>Lubumbashi</td><td>Nouvelles matières</td></tr>
+        <tr><td>200X</td><td>Participation à un concours</td><td>Lubumbashi</td><td>Expérience enrichissante</td></tr>
+        <tr><td>200X</td><td>Obtention du diplôme d’État</td><td>Lubumbashi</td><td>Fierté familiale</td></tr>
+        <tr><td>200X</td><td>Entrée à l’université</td><td>Lubumbashi</td><td>Début des études supérieures</td></tr>
+        <tr><td>200X</td><td>Projet personnel</td><td>Lubumbashi</td><td>Création d’un site web</td></tr>
+        <tr><td>200X</td><td>Stage académique</td><td>Lubumbashi</td><td>Découverte du monde professionnel</td></tr>
+        <tr><td>200X</td><td>Travail de fin de cycle</td><td>Lubumbashi</td><td>Rédaction du TP</td></tr>
+        <tr><td>200X</td><td>Présentation orale</td><td>Lubumbashi</td><td>Exposé devant jury</td></tr>
+        <tr><td>200X</td><td>Obtention du diplôme</td><td>Lubumbashi</td><td>Réussite académique</td></tr>
+        <tr><td>200X</td><td>Début de carrière</td><td>Lubumbashi</td><td>Premiers pas professionnels</td></tr>
+        <tr><td>200X</td><td>Formation complémentaire</td><td>Lubumbashi</td><td>Renforcement des compétences</td></tr>
+        <tr><td>200X</td><td>Projet futur</td><td>Lubumbashi</td><td>Créer une entreprise</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <footer>
+    <p>Site réalisé par Kalenga — TP Biographie</p>
+  </footer>
+</body>
+</html>
